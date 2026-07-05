@@ -8,6 +8,9 @@ Intrigued by networking, homelabbing, and servers.
 
 Tailscale enthusiast. I love using Tailscale for my services and SSH access. I could not live without Tailscale.
 
-See more at: [maariz.org](https://maariz.org)
+### Links
+Website: [https://maariz.org](https://maariz.org)
 
-LinkedIn at: [linkedin.com/in/idle-river/](https://www.linkedin.com/in/idle-river/)
+LinkedIn: [https://linkedin.com/in/idle-river/](https://www.linkedin.com/in/idle-river/)
+
+Ko-fi: [https://ko-fi.com/idle_river](https://ko-fi.com/idle_river)
