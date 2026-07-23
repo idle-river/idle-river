@@ -6,8 +6,6 @@ An amateur full-stack developer based in the USA. More into backend development.
 
 Intrigued by networking, homelabbing, and servers.
 
-Tailscale enthusiast. I love using Tailscale for my services and SSH access. I could not live without Tailscale.
-
 ### Links
 Website: [https://maariz.org](https://maariz.org)
 
