@@ -13,4 +13,4 @@ LinkedIn: [https://linkedin.com/in/idle-river/](https://www.linkedin.com/in/idle
 
 Ko-fi: [https://ko-fi.com/idle_river](https://ko-fi.com/idle_river)
 
-> I've mostly switched over to using my own Gitea instance for my projects. [https://gitea.maariz.org](https://gitea.maariz.org)
+> I've mostly switched over to using my own Gitea instance for my projects. [https://gitea.maariz.org](https://gitea.maariz.org/pure_sagacity)
